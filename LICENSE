@@ -1,3 +1,19 @@
+The RISCY Jr. project is Copyright (c) 2025 nitelich, all rights reserved.
+
+The RISCY Jr. project hereby grants license to the Tiny Tapeout project to utilize the copyrighted works included in the RISCY Jr. project as needed to produce shuttles to which RISCY Jr. project files have been submitted. This license explicitly does NOT include creation or extension of derivative works for commercial purposes, use in marketing or sales material, or sub-licensing.
+
+No warranty is provided for personal use of the RISCY Jr. project. Use of the RISCY Jr. project by individuals is at their own risk.
+
+The RISCY Jr. project includes the following files from this repository:
+- docs\info.md
+- src\alu_library.v
+- src\local_compile_test.bat
+- src\peripheral_library.v
+- src\project.v
+- src\shared_definitions.v
+
+Other files originating from the Tiny Tapeout project's template repository are licensed under an Apache Version 2.0 license. Per that license, the text of the license is copied below.
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -186,7 +202,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright 2025 nitelich
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
